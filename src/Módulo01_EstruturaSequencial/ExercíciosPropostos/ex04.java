@@ -29,5 +29,8 @@ public class ex04 {
 
         System.out.println("NUMBER = " + numFuncionario);
         System.out.printf("SALARY = U$ %.2f%n", salario);
+
+
+        sc.close();
     }
 }

@@ -45,5 +45,8 @@ public class ex06 {
 
         retangulo = A * B;
         System.out.printf("RETÂNGULO: %.3f%n", retangulo);
+
+
+        sc.close();
     }
 }
